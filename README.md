@@ -8,7 +8,7 @@ Simple chat server application built with python
 - [How to use](#how-to-use)
 - [Authors](#authors)
 
-### How to run
+## How to run
 
 Do the following steps to run the application:
 
@@ -17,7 +17,7 @@ Do the following steps to run the application:
   - Enter your name (write admin for more privilages)
   - If you are admin, enter the admin password
 
-### Features
+## Features
 
 The application has the following features:
 
@@ -30,12 +30,12 @@ The application has the following features:
   - You can kick out any user
   - You can ban any user
 
-### How to use
+## How to use
 
 The application doesn't have GUI. It is run on the command line.\
 Following sections describes how to use each feature of the application
 
-#### Adding many clients
+### Adding many clients
 
 In order to add many clients, you simply have to\
 run `client.py` file in one of the following ways:
@@ -43,13 +43,13 @@ run `client.py` file in one of the following ways:
 - Run in different command line window
 - Run in another computer connected to the same local network
 
-#### Write message to other users
+### Write message to other users
 
 After you run `client.py` file and enter your credentials\
 new input field will be opened. You can write your message there\
 and press *Enter* keyboard. Your message will be delivered right away.
 
-#### Write private messages
+### Write private messages
 
 You can also chat with any individual user.\
 You have to prepend user's name with `@` symbol and\
@@ -59,7 +59,7 @@ For example, suppose you want to write to a user named *Jerry*.\
 You need to do the following: `@Jerry Hello, how are you?`\
 The message will be delivered only to Jerry.
 
-#### Admin privilages: Kicking out a user.
+### Admin privilages: Kicking out a user.
 
 To be an admin, you need enter your name as `admin`\
 and you will be asked to enter admin password.
@@ -71,14 +71,14 @@ you want to kick out.
 
 For example: `/kick Jerry`
 
-#### Admin privilages: Banning a user
+### Admin privilages: Banning a user
 
 Banning a user is very similar to kicking out.\
 The keyword: `/ban`
 
 For example: `/ban Jerry`
 
-### Authors
+## Authors
 
 Following people built this application:
 
