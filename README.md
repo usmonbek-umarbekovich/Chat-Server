@@ -47,7 +47,7 @@ run `client.py` file in one of the following ways:
 
 After you run `client.py` file and enter your credentials\
 new input field will be opened. You can write your message there\
-and press **Enter** keyboard. Your message will be delivered right away.
+and press **Enter** key. Your message will be delivered right away.
 
 ### Write private messages
 
