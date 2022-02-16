@@ -83,4 +83,4 @@ For example: `/ban Jerry`
 Following people built this application:
 
 - Rustamov Usmonbek (ID: 52352)
-- Otojonov Sherzod (ID: 52448)
+- Otajonov Sherzod (ID: 52448)
