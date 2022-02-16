@@ -32,14 +32,13 @@ The application has the following features:
 
 ### How to use
 
-The application doesn't have GUI. It is run on the command line.
-
+The application doesn't have GUI. It is run on the command line.\
 Following sections describes how to use each feature of the application
 
 #### Adding many clients
 
-In order to add many clients, you simply have to run `client.py`\
-file in one of the following ways:
+In order to add many clients, you simply have to\
+run `client.py` file in one of the following ways:
 
 - Run in different command line window
 - Run in another computer connected to the same local network
@@ -56,8 +55,8 @@ You can also chat with any individual user.\
 You have to prepend user's name with `@` symbol and\
 put at least 1 whitespace and write your message.
 
-For example, suppose you want to write to a user named *Jerry*.
-You need to do the following: `@Jerry Hello, how are you?`
+For example, suppose you want to write to a user named *Jerry*.\
+You need to do the following: `@Jerry Hello, how are you?`\
 The message will be delivered only to Jerry.
 
 #### Admin privilages: Kicking out a user.
