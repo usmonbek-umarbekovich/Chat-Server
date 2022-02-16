@@ -1,0 +1,8 @@
+HEADER = 1024
+PORT = 5050
+HOST = '127.0.0.1'
+FORMAT = 'utf-8'
+ADDRESS = (HOST, PORT)
+
+ADMIN = 'admin'
+PASSWORD = 'vistula'
