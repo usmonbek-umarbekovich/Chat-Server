@@ -6,7 +6,6 @@ Simple chat server application built with python
 - [How to run](#how-to-run)
 - [Features](#features)
 - [How to use](#how-to-use)
-- [Authors](#authors)
 
 ## How to run
 
@@ -77,10 +76,3 @@ Banning a user is very similar to kicking out.\
 The keyword: `/ban`
 
 For example: `/ban Jerry`
-
-## Authors
-
-Following people built this application:
-
-- Rustamov Usmonbek (ID: 52352)
-- Otajonov Sherzod (ID: 52448)
